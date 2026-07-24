@@ -26,7 +26,7 @@ verifiable against the facsimile.
   Each document folder's README records bibliographic facts only: what the
   document is, where the copy came from, and where translations exist.
 
-## Licensing
+## Licensing / ئىشلىتىشكە ئىجازەت بېرىشنىڭ تەپسىلاتى (ئىجازەتنامە)
 
 To the extent any rights subsist in these transcriptions, they are dedicated to
 the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).

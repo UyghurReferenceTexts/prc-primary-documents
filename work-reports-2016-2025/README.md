@@ -9,6 +9,8 @@ Each report was published by the autonomous region's official Uyghur-language po
 The source permalink and publication date are recorded in the header of each report
 within the document.
 
+A screenshot of the source portal's report listing (xizmet_doklat_homepage.png), captured at the time of download, is included in this folder for provenance.
+
 ## Contents
 
 | Work year | Delivered by  | Congress session     | Source                                                       |

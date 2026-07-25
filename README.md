@@ -9,10 +9,13 @@ verifiable against the facsimile.
 
 ## Documents
 
-| Document | Date | Transcription | Facsimile |
+| Document | Date | Source | Folder |
 |---|---|---|---|
-| CCP Central Committee Document No. 7 — Record of the Politburo Standing Committee Meeting Concerning the Maintenance of Stability in Xinjiang | 1996-03-19 | [UG](document-no7-1996/Document_No7_UG.md) | [PDF](document-no7-1996/Document_No7_UG_Original.pdf) · [pages](document-no7-1996/) |
-| On the English Spelling of the Word "Uyghur" — notice of the XUAR Terminology Normalization Committee for Ethnic Languages | 2006-10-11 | [UG](uyghur-spelling-2006/Uyghur_Name_UG.md) · [EN](uyghur-spelling-2006/Uyghur_Name_EN.md) · [ZH](uyghur-spelling-2006/Uyghur_Name_ZH.md) | [PDF](uyghur-spelling-2006/Uyghur-Uygur-Uighur-Uigur.pdf) · [pages](uyghur-spelling-2006/) |
+| CCP Central Committee Document No. 7 — Politburo Standing Committee meeting on maintaining stability in Xinjiang | 1996-03-19 | facsimile scan | [document-no7-1996](document-no7-1996/) |
+| On the English Spelling of the Word "Uyghur" — XUAR Terminology Normalization Committee notice | 2006-10-11 | facsimile scan | [uyghur-spelling-2006](uyghur-spelling-2006/) |
+| Government Work Reports (10 annual reports) | 2016–2025 | uygur.xinjiang.gov.cn | [work-reports-2016-2025](work-reports-2016-2025/) |
+| General Principles of the Civil Law of the PRC | 1986-04-12 | uyghur-archive.com | [civil-law-general-principles-1986](civil-law-general-principles-1986/) |
+| Law on Promoting Ethnic Unity and Progress | 2026-03-12 | elkitab.org | [ethnic-unity-law-2026](ethnic-unity-law-2026/) |
 
 ## Editorial principles
 

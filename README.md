@@ -1,11 +1,12 @@
 # PRC Primary Documents / خىتاي ھۆكۈمىتىنىڭ ھۆججەتلىرى
 
-Archival transcriptions of official PRC documents concerning East Turkistan,
-published together with facsimile scans of the originals.
+Archival transcriptions of official PRC documents concerning East Turkistan.
 
-This repository archives a faithful transcription of each document, alongside
-scans of the printed source, so that the text is searchable, citable, and
-verifiable against the facsimile.
+This repository archives a faithful transcription of each document so that the
+text is searchable and citable. Where the source is a printed original, facsimile
+scans are published alongside the transcription, so the text can be verified
+character by character. Where the source is a web publication, the source URL is
+recorded in the document and in its folder README.
 
 ## Documents
 
@@ -22,9 +23,10 @@ verifiable against the facsimile.
 - **Verbatim transcription.** The text is reproduced exactly as printed,
   including the orthography of its period and any typographical errors of the
   original. Nothing is modernized, normalized, or corrected.
-- **Facsimile provenance.** Every transcription is published with scans of the
-  printed source it was transcribed from, so any reader can verify the text
-  character by character.
+- **Provenance.** Transcriptions made from printed originals are published with
+  scans of the source pages. Transcriptions made from web publications record the
+  source URL instead, and state in the folder README whether the text has been
+  verified against an official release.
 - **No commentary.** Documents are presented without annotation or analysis.
   Each document folder's README records bibliographic facts only: what the
   document is, where the copy came from, and where translations exist.

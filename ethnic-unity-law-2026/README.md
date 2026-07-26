@@ -10,7 +10,7 @@ People's Congress and takes effect on 1 July 2026.
 
 ## Contents
 
-- `milletler-ittipaqliqi-qanuni-UG.md` — full text: presidential decree No. 71,
+- `milletler_ittipaqliqi_qanuni_UG.md` — full text: presidential decree No. 71,
   followed by the law in 7 chapters (65 articles).
 - `شىجىنپىڭنىڭ-پەرمانى.pdf` — the source file this text was transcribed from.
 
